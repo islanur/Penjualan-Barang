@@ -1,4 +1,5 @@
 // Program pembelian alat komputer
+let jumlahBarang = prompt('Masukkan jumlah jenis barang:');
 let namaBarang, hargaSatuan, potongan, total;
 let kodeBarang = prompt('Masukkan kode barang :');
 let jumlahBeli = prompt('Masukkan jumlah pembelian : ');
